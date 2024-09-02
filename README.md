@@ -1,7 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Abubakr Alsheikh! 👋
+I'm a passionate Full-Stack Web Developer with a strong foundation in Software Engineering. My journey in the world of technology began with a degree in Software Engineering, and I'm currently expanding my horizons by pursuing a degree in Information Technology Engineering alongside earning a bachelor's degree in Software Engineering.
 
-# 💫About Me :
-I’m a passionate Full Stack Web Developer with experience in Python, Django, and web development. I have completed a Coursera certification from the University of Michigan and have worked on various projects, including an e-commerce website and an AI-powered site using Gemini.
+My true passion lies in creating websites that are both aesthetically pleasing and highly functional. I believe that a great website seamlessly marries design and functionality, and this philosophy drives all my work. My goal is always to deliver exceptional results that meet and exceed client expectations.
+
+Beyond my formal education, I’ve taken numerous online courses on platforms like Coursera, which have equipped me with a wide array of web design and development techniques. These skills enable me to create websites that not only look great but also provide an intuitive and seamless user experience. 
+
+Looking ahead, my ultimate dream is to use my skills to make a positive impact on the world. I aspire to work on projects that challenge me professionally and contribute meaningfully to society. Technology has the power to change lives, and I’m excited to be part of that transformation.
+
+<img src="https://www.foundersbeta.com/wp-content/uploads/2021/05/Startup-Memes-Hiring-a-Developer.jpeg" width="512px"/>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/abubakr.alsheikh.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/abubakr-alsheikh-dev/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/AbubakrAlshei77) 
@@ -19,9 +25,6 @@ I’m a passionate Full Stack Web Developer with experience in Python, Django, a
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 😂Dev Meme
-<img src="https://www.foundersbeta.com/wp-content/uploads/2021/05/Startup-Memes-Hiring-a-Developer.jpeg" width="512px"/>
 
 <!--
 **Abubakr-Alsheikh/Abubakr-Alsheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
