@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 342" width="900" height="342" role="img" aria-labelledby="tt td">
+  <title id="tt">Root terminal</title>
+  <desc id="td">whoami: Abubakr Alsheikh, full-stack software engineer. Stack: Python, Django, Node.js, React, Next.js, TypeScript, PostgreSQL, Docker. Featured projects: Mizan, Max CLI, NanoManga Studio, NexusDesk AI. Status: open to new challenges, studying AWS Solutions Architect Associate.</desc>
+  <style>
+    .mono { font-family: 'JetBrains Mono','Cascadia Mono','SF Mono',Consolas,'Liberation Mono',Menlo,monospace; white-space: pre; }
+    .cursor { animation: blink 1s steps(1, end) infinite; }
+    .live { animation: pulse 1.6s ease-in-out infinite; }
+    .session { animation: clear 18.0s linear infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes pulse { 0%, 100% { opacity: .3; } 50% { opacity: 1; } }
+    @keyframes clear { 0%, 95% { opacity: 1; } 98%, 100% { opacity: 0; } }
+    @keyframes l0 { 0% { transform: translateX(0); } 7.22% { transform: translateX(0); animation-timing-function: steps(6, end); } 9.56% { transform: translateX(82px); } 100% { transform: translateX(82px); } } .c0 { animation: l0 18.0s linear infinite; } @keyframes l1 { 0% { transform: translateX(0); } 11.50% { transform: translateX(0); animation-timing-function: steps(1, end); } 11.56% { transform: translateX(421px); } 100% { transform: translateX(421px); } } .c1 { animation: l1 18.0s linear infinite; } @keyframes l2 { 0% { transform: translateX(0); } 14.33% { transform: translateX(0); animation-timing-function: steps(13, end); } 19.39% { transform: translateX(142px); } 100% { transform: translateX(142px); } } .c2 { animation: l2 18.0s linear infinite; } @keyframes l3 { 0% { transform: translateX(0); } 21.33% { transform: translateX(0); animation-timing-function: steps(1, end); } 21.39% { transform: translateX(630px); } 100% { transform: translateX(630px); } } .c3 { animation: l3 18.0s linear infinite; } @keyframes l4 { 0% { transform: translateX(0); } 24.17% { transform: translateX(0); animation-timing-function: steps(24, end); } 33.50% { transform: translateX(238px); } 100% { transform: translateX(238px); } } .c4 { animation: l4 18.0s linear infinite; } @keyframes l5 { 0% { transform: translateX(0); } 35.44% { transform: translateX(0); animation-timing-function: steps(1, end); } 35.50% { transform: translateX(473px); } 100% { transform: translateX(473px); } } .c5 { animation: l5 18.0s linear infinite; } @keyframes l6 { 0% { transform: translateX(0); } 38.28% { transform: translateX(0); animation-timing-function: steps(18, end); } 45.28% { transform: translateX(186px); } 100% { transform: translateX(186px); } } .c6 { animation: l6 18.0s linear infinite; } @keyframes l7 { 0% { transform: translateX(0); } 47.22% { transform: translateX(0); animation-timing-function: steps(1, end); } 47.28% { transform: translateX(264px); } 100% { transform: translateX(264px); } } .c7 { animation: l7 18.0s linear infinite; } @keyframes l8 { 0% { transform: translateX(0); } 49.22% { transform: translateX(0); animation-timing-function: steps(1, end); } 49.28% { transform: translateX(447px); } 100% { transform: translateX(447px); } } .c8 { animation: l8 18.0s linear infinite; } @keyframes pr { 0%, 50.28% { opacity: 0; } 50.38%, 100% { opacity: 1; } } .prompt { animation: pr 18.0s linear infinite; }
+    @media (prefers-reduced-motion: reduce) {
+      [class^="c"], .cursor, .live, .session, .prompt { animation: none; }
+      [class^="c"] { display: none; }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="899" height="341" fill="#020617" stroke="#1e293b"/>
+  <rect x="0.5" y="0.5" width="899" height="34" fill="#0B1222" stroke="#1e293b"/>
+  <rect x="16" y="14" width="7" height="7" fill="#334155"/>
+  <rect class="live" x="29" y="14" width="7" height="7" fill="#3B82F6"/>
+  <rect x="42" y="14" width="7" height="7" fill="#F97316"/>
+  <text x="884" y="22" text-anchor="end" class="mono" font-size="11" letter-spacing="2" fill="#94A3B8">ARCH // root@orbital: ~</text>
+  <rect x="-3" y="-3" width="6" height="6" fill="#3B82F6"/>
+  <rect x="897" y="339" width="6" height="6" fill="#F97316"/>
+  <g class="session">
+        <text x="28" y="76" class="mono" font-size="14"><tspan fill="#F97316">$ </tspan><tspan fill="#F1F5F9">whoami</tspan></text>
+    <rect class="c0" x="44.4" y="61" width="82" height="21" fill="#020617"/>
+    <text x="28" y="103" class="mono" font-size="14"><tspan fill="#F1F5F9">abubakr alsheikh</tspan><tspan fill="#94A3B8"> · full-stack software engineer</tspan></text>
+    <rect class="c1" x="26" y="88" width="421" height="21" fill="#020617"/>
+    <text x="28" y="130" class="mono" font-size="14"><tspan fill="#F97316">$ </tspan><tspan fill="#F1F5F9">cat stack.txt</tspan></text>
+    <rect class="c2" x="44.4" y="115" width="142" height="21" fill="#020617"/>
+    <text x="28" y="157" class="mono" font-size="14"><tspan fill="#94A3B8">python  django  node.js  react  next.js  typescript  postgresql  docker</tspan></text>
+    <rect class="c3" x="26" y="142" width="630" height="21" fill="#020617"/>
+    <text x="28" y="184" class="mono" font-size="14"><tspan fill="#F97316">$ </tspan><tspan fill="#F1F5F9">ls ~/projects --featured</tspan></text>
+    <rect class="c4" x="44.4" y="169" width="238" height="21" fill="#020617"/>
+    <text x="28" y="211" class="mono" font-size="14"><tspan fill="#3B82F6">mizan/   max-cli/   nanomanga-studio/   nexusdesk-ai/</tspan></text>
+    <rect class="c5" x="26" y="196" width="473" height="21" fill="#020617"/>
+    <text x="28" y="238" class="mono" font-size="14"><tspan fill="#F97316">$ </tspan><tspan fill="#F1F5F9">./status --verbose</tspan></text>
+    <rect class="c6" x="44.4" y="223" width="186" height="21" fill="#020617"/>
+    <text x="28" y="265" class="mono" font-size="14"><tspan fill="#10B981">[ OK ]</tspan><tspan fill="#94A3B8"> open to new challenges</tspan></text>
+    <rect class="c7" x="26" y="250" width="264" height="21" fill="#020617"/>
+    <text x="28" y="292" class="mono" font-size="14"><tspan fill="#10B981">[ OK ]</tspan><tspan fill="#94A3B8"> studying: aws solutions architect associate</tspan></text>
+    <rect class="c8" x="26" y="277" width="447" height="21" fill="#020617"/>
+    <g class="prompt"><text x="28" y="319" class="mono" font-size="14" fill="#F97316">$</text><rect class="cursor" x="45.4" y="306" width="9" height="16" fill="#3B82F6"/></g>
+  </g>
+</svg>

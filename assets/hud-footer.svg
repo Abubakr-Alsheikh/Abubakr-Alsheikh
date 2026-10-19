@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 70" width="1200" height="70" role="img" aria-labelledby="ft">
+  <title id="ft">End of transmission</title>
+  <style>
+    .mono { font-family: 'JetBrains Mono','Cascadia Mono','SF Mono',Consolas,'Liberation Mono',Menlo,monospace; }
+    .run { animation: run 5s cubic-bezier(.6,0,.4,1) infinite; }
+    @keyframes run { 0% { transform: translateX(0); opacity: 0; } 8% { opacity: 1; } 92% { opacity: 1; } 100% { transform: translateX(1080px); opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .run { animation: none; } }
+  </style>
+  <rect width="1200" height="70" fill="#020617"/>
+  <line x1="40" y1="22" x2="1160" y2="22" stroke="#1e293b" stroke-width="1"/>
+  <line x1="40" y1="22" x2="240" y2="22" stroke="#3B82F6" stroke-width="1.5"/>
+  <g class="run"><rect x="56" y="18" width="8" height="8" fill="#020617" stroke="#F97316" stroke-width="1.5"/></g>
+  <text x="40" y="52" class="mono" font-size="12" letter-spacing="3" fill="#94A3B8">EOF // END OF TRANSMISSION</text>
+  <text x="1160" y="52" text-anchor="end" class="mono" font-size="12" letter-spacing="3" fill="#64748B">ORBITAL_STABLE</text>
+</svg>

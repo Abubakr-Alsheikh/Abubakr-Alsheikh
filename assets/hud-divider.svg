@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" aria-hidden="true">
+  <style>
+    .run { animation: run 4.5s cubic-bezier(.6,0,.4,1) infinite; }
+    @keyframes run { 0% { transform: translateX(0); opacity: 0; } 10% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateX(1140px); opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .run { animation: none; opacity: 0; } }
+  </style>
+  <line x1="10" y1="12" x2="1190" y2="12" stroke="#1e293b" stroke-width="1"/>
+  <rect x="7" y="9" width="6" height="6" fill="#3B82F6"/>
+  <rect x="1187" y="9" width="6" height="6" fill="#F97316"/>
+  <g class="run"><rect x="24" y="8" width="8" height="8" fill="#020617" stroke="#3B82F6" stroke-width="1.5"/></g>
+</svg>

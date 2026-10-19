@@ -1,92 +1,131 @@
-# Hi there, I'm Abubakr Alsheikh! 👋
+<p align="center">
+  <a href="https://abubakr-alsheikh.netlify.app">
+    <img src="./assets/hud-banner.svg" width="100%" alt="Abubakr Alsheikh, software engineer. Engineering systems and interfaces." />
+  </a>
+</p>
 
-I'm a **Software Engineer** and **Full-Stack Developer** with a strong foundation in core computer science principles and a growing specialization in **AI-integrated systems**. With formal education in both Software Engineering and Information Technology, I pride myself on my ability to quickly adapt to new languages, frameworks, and environments to build scalable, polished digital products.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=760&lines=Full-stack+software+engineer;Python+%C2%B7+Django+%C2%B7+Node.js+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;APIs%2C+data+models+and+the+interfaces+on+top;Now+studying%3A+AWS+Solutions+Architect+Associate;Open+to+full-time+roles+and+freelance+projects" alt="Full-stack software engineer. Python, Django, Node.js, React, Next.js, TypeScript." />
+</p>
 
-My commitment is to deliver clean, maintainable, and robust code. Whether I'm architecting a complex relational database, building a scalable backend, or designing an intuitive user interface, I focus on picking the **right tool for the job** to achieve concrete business goals and provide a seamless user experience.
+<p align="center">
+  <a href="https://abubakr-alsheikh.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-020617?style=for-the-badge&logo=googlechrome&logoColor=3B82F6&labelColor=0F172A" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/abubakr-alsheikh"><img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&labelColor=0F172A&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzNCODJGNiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
+  <a href="mailto:AbubakrAlsheikh@outlook.com"><img src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=maildotru&logoColor=F97316&labelColor=0F172A" alt="Email" /></a>
+  <a href="https://t.me/AbubakrAlsheikh"><img src="https://img.shields.io/badge/TELEGRAM-020617?style=for-the-badge&logo=telegram&logoColor=3B82F6&labelColor=0F172A" alt="Telegram" /></a>
+  <a href="https://x.com/AbubakrAlshei77"><img src="https://img.shields.io/badge/X-020617?style=for-the-badge&logo=x&logoColor=94A3B8&labelColor=0F172A" alt="X" /></a>
+</p>
 
-- 🔭 I’m currently architecting and deploying robust, full-stack applications, seamlessly transitioning between varied ecosystems to solve complex problems.
-- 🌱 I’m constantly deepening my knowledge in scalable system architecture, CI/CD automation, DevOps practices, and AI/LLM integrations.
-- 👯 I’m looking to collaborate on innovative open-source projects or challenging engineering roles where I can apply my technology-agnostic approach to problem-solving.
-- 💬 Ask me about System Design, RESTful APIs, OOP principles, or my experiences building production-ready apps across Python, C#, TypeScript, and beyond!
-- 📫 How to reach me: **AbubakrAlsheikh@outlook.com**
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abubakr-Alsheikh.Abubakr-Alsheikh&left_color=%230F172A&right_color=%233B82F6&left_text=PROFILE%20VISITORS" alt="Profile visitors" />
+</p>
 
-## 🌐 Connect With Me
+<p align="center"><img src="./assets/hud-divider.svg" width="100%" alt="" /></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://abubakr-alsheikh.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abubakr-alsheikh-dev/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/AbubakrAlshei77)
+### `▸ 01 // OPERATOR`
 
-## 🛠️ Tech Stack & Tools
+I'm a full-stack software engineer. I design APIs, data models and the interfaces on top of them, build them end to end, and keep them running in production.
 
-*I believe in picking the right technology for the specific needs of a project. While I am highly adaptable, here are the ecosystems and tools I frequently work with:*
+I'm not tied to one stack. Most days it's **Python and Django** or **Node.js** on the server, **React and Next.js with TypeScript** on the client, and **PostgreSQL** underneath, shipped with **Docker and CI**. When a project already runs on something else, I work in that.
 
-**Frontend:** ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TanStack](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-4D2A69?style=for-the-badge)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+<p align="center">
+  <img src="./assets/hud-terminal.svg" width="100%" alt="Root terminal: whoami returns Abubakr Alsheikh, full-stack software engineer; the stack is Python, Django, Node.js, React, Next.js, TypeScript, PostgreSQL and Docker; featured projects are Mizan, Max CLI, NanoManga Studio and NexusDesk AI; status: open to new challenges, studying AWS Solutions Architect Associate." />
+</p>
 
-**Backend:** ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=gray)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<p align="center"><img src="./assets/hud-divider.svg" width="100%" alt="" /></p>
 
-**Databases & Caching:** ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+### `▸ 02 // FLIGHT LOG`
 
-**DevOps & Tools:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Celery](https://img.shields.io/badge/celery-%2332CD32.svg?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
-![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
+| `MOD` | Project | What it does | Links |
+|:--:|:--|:--|:--|
+| `01` | **Mizan** | Household budget app. Log spending from Telegram by text, voice note or receipt photo, and get one number back: what you can safely spend today. | [Live](https://mizans.netlify.app) · [Case study](https://abubakr-alsheikh.netlify.app/projects/mizan) |
+| `02` | **Max CLI** | Open-source terminal assistant on PyPI: 73 commands for video, audio, PDF, image and file tasks, an AI agent and a dashboard. | [Repo](https://github.com/Abubakr-Alsheikh/max-cli) · [Docs](https://abubakr-alsheikh.github.io/max-cli/) |
+| `03` | **NanoManga Studio** | Turns a one-line idea into finished manga pages with Gemini, keeping characters consistent from page to page. | [Repo](https://github.com/Abubakr-Alsheikh/nanomanga-studio) · [Live](https://nanomanga-studio.vercel.app) |
+| `04` | **NexusDesk AI** | Support-ticket service that triages tickets with an LLM on a background queue, with validated output and retries. | [Repo](https://github.com/Abubakr-Alsheikh/nexusdesk-ai) |
+| `05` | **Smart Markdown Pro** | Local-first markdown editor with AI formatting and server-side PDF export. | [Repo](https://github.com/Abubakr-Alsheikh/smart-markdown-pro) |
 
-**Design & UI:** ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+<sub>More projects, with diagrams and case studies, on the <a href="https://abubakr-alsheikh.netlify.app/#projects">portfolio</a>.</sub>
 
+<p align="center"><img src="./assets/hud-divider.svg" width="100%" alt="" /></p>
 
-## 📊 GitHub Stats
+### `▸ 03 // ENGINE`
 
-<div style="text-align: center;">
+<table>
+  <tr>
+    <td><code>LANGUAGES</code></td>
+    <td><img src="https://skillicons.dev/icons?i=py,ts,js,cs,php,kotlin&theme=dark" alt="Python, TypeScript, JavaScript, C#, PHP, Kotlin" /></td>
+  </tr>
+  <tr>
+    <td><code>BACKEND</code></td>
+    <td><img src="https://skillicons.dev/icons?i=django,nodejs,express,dotnet,flask&theme=dark" alt="Django, Node.js, Express, .NET, Flask" /> <img src="./assets/icons/hono.svg" width="48" height="48" alt="Hono" /></td>
+  </tr>
+  <tr>
+    <td><code>FRONTEND</code></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,materialui&theme=dark" alt="React, Next.js, Tailwind CSS, Vite, Redux, Material UI" /> <img src="./assets/icons/zod.svg" width="48" height="48" alt="Zod" /></td>
+  </tr>
+  <tr>
+    <td><code>DATA</code></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,supabase,redis,mysql,sqlite,prisma&theme=dark" alt="PostgreSQL, Supabase, Redis, MySQL, SQLite, Prisma" /> <img src="./assets/icons/drizzle.svg" width="48" height="48" alt="Drizzle ORM" /></td>
+  </tr>
+  <tr>
+    <td><code>OPS</code></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,git,netlify,vercel,sentry&theme=dark" alt="Docker, GitHub Actions, Nginx, Linux, Git, Netlify, Vercel, Sentry" /></td>
+  </tr>
+  <tr>
+    <td><code>TESTING</code></td>
+    <td><img src="https://skillicons.dev/icons?i=vitest,jest&theme=dark" alt="Vitest, Jest (plus Pytest)" /></td>
+  </tr>
+  <tr>
+    <td><code>MOBILE · DESIGN</code></td>
+    <td><img src="https://skillicons.dev/icons?i=androidstudio,figma&theme=dark" alt="Android Studio, Figma" /></td>
+  </tr>
+</table>
 
-![](https://github-readme-stats.vercel.app/api?username=abubakr-alsheikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=abubakr-alsheikh&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakr-alsheikh&theme=radical&hide_border=false&layout=compact)
+<p align="center"><img src="./assets/hud-divider.svg" width="100%" alt="" /></p>
 
-</div>
+### `▸ 04 // CURRENT TRAJECTORY`
 
-## 🏆 GitHub Trophies
+```diff
++ [STUDYING]   AWS Certified Solutions Architect - Associate
++ [STUDYING]   B.Sc. IT Engineering · Aleppo University & Syrian Virtual University
++ [CERTIFIED]  Meta Generalist Software Engineer
+!              Front-End · Back-End · Database Engineer · Android
++ [SHIPPING]   Mizan, Max CLI, and client web apps
+```
 
-<div style="text-align: center;">
+<p align="center"><img src="./assets/hud-divider.svg" width="100%" alt="" /></p>
 
-![](https://github-trophies.vercel.app/?username=abubakr-alsheikh&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+### `▸ 05 // TELEMETRY`
 
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abubakr-Alsheikh&show_icons=true&include_all_commits=true&count_private=true&bg_color=020617&title_color=3B82F6&text_color=94A3B8&icon_color=F97316&border_color=1E293B&ring_color=3B82F6&custom_title=SYSTEM%20TELEMETRY" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Abubakr-Alsheikh&background=020617&border=1E293B&stroke=1E293B&ring=3B82F6&fire=F97316&currStreakNum=F1F5F9&sideNums=F1F5F9&currStreakLabel=3B82F6&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak" />
+</p>
 
-## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=abubakr-alsheikh&theme=nord&no-frame=true&no-bg=true&margin-w=6" alt="GitHub trophies" />
+</p>
 
-<div style="text-align: center;">
+<p align="center"><img src="./assets/hud-divider.svg" width="100%" alt="" /></p>
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+### `▸ 06 // ORBITAL SCAN`
 
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abubakr-Alsheikh/Abubakr-Alsheikh/output/orbital-scan.svg" width="100%" alt="Orbital scan: a ship flies over the contribution calendar and locks onto every day with contributions" />
+</p>
 
-## 😁 Meme Time
+<p align="center"><img src="./assets/hud-divider.svg" width="100%" alt="" /></p>
 
-<div style="text-align: center;">
+### `▸ 07 // OFF-DUTY`
 
-<img src="https://www.foundersbeta.com/wp-content/uploads/2021/05/Startup-Memes-Hiring-a-Developer.jpeg" width="512px"/>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://www.foundersbeta.com/wp-content/uploads/2021/05/Startup-Memes-Hiring-a-Developer.jpeg" width="480" alt="Startup meme about hiring a developer" />
+</p>
+
+<p align="center">
+  <img src="./assets/hud-footer.svg" width="100%" alt="End of transmission" />
+</p>
