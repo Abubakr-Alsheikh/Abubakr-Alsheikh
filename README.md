@@ -29,7 +29,7 @@ I'm a full-stack software engineer. I design APIs, data models and the interface
 I'm not tied to one stack. Most days it's **Python and Django** or **Node.js** on the server, **React and Next.js with TypeScript** on the client, and **PostgreSQL** underneath, shipped with **Docker and CI**. When a project already runs on something else, I work in that.
 
 <p align="center">
-  <img src="./assets/hud-terminal.svg" width="100%" alt="Root terminal: whoami returns Abubakr Alsheikh, full-stack software engineer; the stack is Python, Django, Node.js, React, Next.js, TypeScript, PostgreSQL and Docker; featured projects are Mizan, Max CLI, NanoManga Studio and NexusDesk AI; status: open to new challenges, studying AWS Solutions Architect Associate." />
+  <img src="./assets/hud-terminal.svg" width="100%" alt="Root terminal: whoami returns Abubakr Alsheikh, full-stack software engineer; the stack is Python, Django, Node.js, React, Next.js, TypeScript, PostgreSQL and Docker; featured projects are Mizan, Roastline, Max CLI, NanoManga Studio and NexusDesk AI; status: open to new challenges, studying AWS Solutions Architect Associate." />
 </p>
 
 <p align="center"><img src="./assets/hud-divider.svg" width="100%" alt="" /></p>
@@ -39,10 +39,11 @@ I'm not tied to one stack. Most days it's **Python and Django** or **Node.js** o
 | `MOD` | Project | What it does | Links |
 |:--:|:--|:--|:--|
 | `01` | **Mizan** | Household budget app. Log spending from Telegram by text, voice note or receipt photo, and get one number back: what you can safely spend today. | [Live](https://mizans.netlify.app) · [Case study](https://abubakr-alsheikh.netlify.app/projects/mizan) |
-| `02` | **Max CLI** | Open-source terminal assistant on PyPI: 73 commands for video, audio, PDF, image and file tasks, an AI agent and a dashboard. | [Repo](https://github.com/Abubakr-Alsheikh/max-cli) · [Docs](https://abubakr-alsheikh.github.io/max-cli/) |
-| `03` | **NanoManga Studio** | Turns a one-line idea into finished manga pages with Gemini, keeping characters consistent from page to page. | [Repo](https://github.com/Abubakr-Alsheikh/nanomanga-studio) · [Live](https://nanomanga-studio.vercel.app) |
-| `04` | **NexusDesk AI** | Support-ticket service that triages tickets with an LLM on a background queue, with validated output and retries. | [Repo](https://github.com/Abubakr-Alsheikh/nexusdesk-ai) |
-| `05` | **Smart Markdown Pro** | Local-first markdown editor with AI formatting and server-side PDF export. | [Repo](https://github.com/Abubakr-Alsheikh/smart-markdown-pro) |
+| `02` | **Roastline** | Concept site for a fictional Lisbon roastery: a roast curve that draws as you scroll, a brew calculator with a live timer, and a working reservation form. Lighthouse mobile 96. | [Live](https://roastline-app.netlify.app) · [Repo](https://github.com/Abubakr-Alsheikh/roastline) |
+| `03` | **Max CLI** | Open-source terminal assistant on PyPI: 73 commands for video, audio, PDF, image and file tasks, an AI agent and a dashboard. | [Repo](https://github.com/Abubakr-Alsheikh/max-cli) · [Docs](https://abubakr-alsheikh.github.io/max-cli/) |
+| `04` | **NanoManga Studio** | Turns a one-line idea into finished manga pages with Gemini, keeping characters consistent from page to page. | [Repo](https://github.com/Abubakr-Alsheikh/nanomanga-studio) · [Live](https://nanomanga-studio.vercel.app) |
+| `05` | **NexusDesk AI** | Support-ticket service that triages tickets with an LLM on a background queue, with validated output and retries. | [Repo](https://github.com/Abubakr-Alsheikh/nexusdesk-ai) |
+| `06` | **Smart Markdown Pro** | Local-first markdown editor with AI formatting and server-side PDF export. | [Repo](https://github.com/Abubakr-Alsheikh/smart-markdown-pro) |
 
 <sub>More projects, with diagrams and case studies, on the <a href="https://abubakr-alsheikh.netlify.app/#projects">portfolio</a>.</sub>
 
