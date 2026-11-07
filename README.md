@@ -39,12 +39,13 @@ I'm not tied to one stack. Most days it's **Python and Django** or **Node.js** o
 | `MOD` | Project | What it does | Links |
 |:--:|:--|:--|:--|
 | `01` | **Mizan** | Household budget app. Log spending from Telegram by text, voice note or receipt photo, and get one number back: what you can safely spend today. | [Live](https://mizans.netlify.app) · [Case study](https://abubakr-alsheikh.netlify.app/projects/mizan) |
-| `02` | **Storefront Ops** | Concept operations dashboard for a fictional shop: live orders over server-sent events and about 145,000 orders in one virtualised table, on Hono, Drizzle and Postgres. | [Live](https://storefront-ops.netlify.app/) · [Repo](https://github.com/Abubakr-Alsheikh/storefront-ops) |
-| `03` | **Roastline** | Concept site for a fictional Lisbon roastery: a roast curve that draws as you scroll, a brew calculator with a live timer, and a working reservation form. Lighthouse mobile 96. | [Live](https://roastline-app.netlify.app) · [Repo](https://github.com/Abubakr-Alsheikh/roastline) |
-| `04` | **Max CLI** | Open-source terminal assistant on PyPI: 73 commands for video, audio, PDF, image and file tasks, an AI agent and a dashboard. | [Repo](https://github.com/Abubakr-Alsheikh/max-cli) · [Docs](https://abubakr-alsheikh.github.io/max-cli/) |
-| `05` | **NanoManga Studio** | Turns a one-line idea into finished manga pages with Gemini, keeping characters consistent from page to page. | [Repo](https://github.com/Abubakr-Alsheikh/nanomanga-studio) · [Live](https://nanomanga-studio.vercel.app) |
-| `06` | **NexusDesk AI** | Support-ticket service that triages tickets with an LLM on a background queue, with validated output and retries. | [Repo](https://github.com/Abubakr-Alsheikh/nexusdesk-ai) |
-| `07` | **Smart Markdown Pro** | Local-first markdown editor with AI formatting and server-side PDF export. | [Repo](https://github.com/Abubakr-Alsheikh/smart-markdown-pro) |
+| `02` | **Linnet** | Concept launch page for a fictional invoicing product: the hero is a working invoice that adds up as you edit it and gets paid when you press Send. Every word in MDX, PageSpeed mobile 100 in all four categories. | [Live](https://linnet-app.netlify.app) · [Repo](https://github.com/Abubakr-Alsheikh/linnet) |
+| `03` | **Storefront Ops** | Concept operations dashboard for a fictional shop: live orders over server-sent events and about 145,000 orders in one virtualised table, on Hono, Drizzle and Postgres. | [Live](https://storefront-ops.netlify.app/) · [Repo](https://github.com/Abubakr-Alsheikh/storefront-ops) |
+| `04` | **Roastline** | Concept site for a fictional Lisbon roastery: a roast curve that draws as you scroll, a brew calculator with a live timer, and a working reservation form. Lighthouse mobile 96. | [Live](https://roastline-app.netlify.app) · [Repo](https://github.com/Abubakr-Alsheikh/roastline) |
+| `05` | **Max CLI** | Open-source terminal assistant on PyPI: 73 commands for video, audio, PDF, image and file tasks, an AI agent and a dashboard. | [Repo](https://github.com/Abubakr-Alsheikh/max-cli) · [Docs](https://abubakr-alsheikh.github.io/max-cli/) |
+| `06` | **NanoManga Studio** | Turns a one-line idea into finished manga pages with Gemini, keeping characters consistent from page to page. | [Repo](https://github.com/Abubakr-Alsheikh/nanomanga-studio) · [Live](https://nanomanga-studio.vercel.app) |
+| `07` | **NexusDesk AI** | Support-ticket service that triages tickets with an LLM on a background queue, with validated output and retries. | [Repo](https://github.com/Abubakr-Alsheikh/nexusdesk-ai) |
+| `08` | **Smart Markdown Pro** | Local-first markdown editor with AI formatting and server-side PDF export. | [Repo](https://github.com/Abubakr-Alsheikh/smart-markdown-pro) |
 
 <sub>More projects, with diagrams and case studies, on the <a href="https://abubakr-alsheikh.netlify.app/#projects">portfolio</a>.</sub>
 
