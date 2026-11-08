@@ -1,5 +1,6 @@
-# Renders the contribution calendar as the HUD "orbital scan" and publishes it
-# to the `output` branch, where the README reads it. Runs daily and on demand.
+# Renders the contribution calendar as the HUD "orbital scan" and the stats
+# card ("system telemetry"), and publishes both to the `output` branch, where
+# the README reads them. Runs daily, on every push to main and on demand.
 name: Orbital scan
 
 on:
@@ -21,6 +22,12 @@ jobs:
 
       - name: Render the scan
         run: python3 .github/scripts/orbital_scan.py dist/orbital-scan.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+
+      - name: Render the telemetry card
+        run: python3 .github/scripts/telemetry_card.py dist/telemetry.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}

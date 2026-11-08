@@ -29,7 +29,7 @@ I'm a full-stack software engineer. I design APIs, data models and the interface
 I'm not tied to one stack. Most days it's **Python and Django** or **Node.js** on the server, **React and Next.js with TypeScript** on the client, and **PostgreSQL** underneath, shipped with **Docker and CI**. When a project already runs on something else, I work in that.
 
 <p align="center">
-  <img src="./assets/hud-terminal.svg" width="100%" alt="Root terminal: whoami returns Abubakr Alsheikh, full-stack software engineer; the stack is Python, Django, Node.js, React, Next.js, TypeScript, PostgreSQL and Docker; featured projects are Mizan, Roastline, Max CLI, NanoManga Studio and NexusDesk AI; status: open to new challenges, studying AWS Solutions Architect Associate." />
+  <img src="./assets/hud-terminal.svg" width="100%" alt="Root terminal: whoami returns Abubakr Alsheikh, full-stack software engineer; the stack is Python, Django, Node.js, React, Next.js, TypeScript, PostgreSQL and Docker; featured projects are Mizan, Linnet, Storefront Ops, Roastline, Max CLI and NanoManga Studio; status: open to new challenges, studying AWS Solutions Architect Associate." />
 </p>
 
 <p align="center"><img src="./assets/hud-divider.svg" width="100%" alt="" /></p>
@@ -43,9 +43,11 @@ I'm not tied to one stack. Most days it's **Python and Django** or **Node.js** o
 | `03` | **Storefront Ops** | Concept operations dashboard for a fictional shop: live orders over server-sent events and about 145,000 orders in one virtualised table, on Hono, Drizzle and Postgres. | [Live](https://storefront-ops.netlify.app/) · [Repo](https://github.com/Abubakr-Alsheikh/storefront-ops) |
 | `04` | **Roastline** | Concept site for a fictional Lisbon roastery: a roast curve that draws as you scroll, a brew calculator with a live timer, and a working reservation form. Lighthouse mobile 96. | [Live](https://roastline-app.netlify.app) · [Repo](https://github.com/Abubakr-Alsheikh/roastline) |
 | `05` | **Max CLI** | Open-source terminal assistant on PyPI: 73 commands for video, audio, PDF, image and file tasks, an AI agent and a dashboard. | [Repo](https://github.com/Abubakr-Alsheikh/max-cli) · [Docs](https://abubakr-alsheikh.github.io/max-cli/) |
-| `06` | **NanoManga Studio** | Turns a one-line idea into finished manga pages with Gemini, keeping characters consistent from page to page. | [Repo](https://github.com/Abubakr-Alsheikh/nanomanga-studio) · [Live](https://nanomanga-studio.vercel.app) |
-| `07` | **NexusDesk AI** | Support-ticket service that triages tickets with an LLM on a background queue, with validated output and retries. | [Repo](https://github.com/Abubakr-Alsheikh/nexusdesk-ai) |
-| `08` | **Smart Markdown Pro** | Local-first markdown editor with AI formatting and server-side PDF export. | [Repo](https://github.com/Abubakr-Alsheikh/smart-markdown-pro) |
+| `06` | **qtask** | Local task tracker for AI coding agents and the people they work with: leases stop two agents taking the same task, agents ask and the developer answers, and closing a task needs evidence. One Python file, standard library, SQLite. | [Repo](https://github.com/Abubakr-Alsheikh/qtask) |
+| `07` | **claude-account-switch** | Switches the account Claude Code uses with one command while sessions and history keep working. It saves each login before a swap, because Claude Code's refresh tokens work only once. Unofficial, standard library only. | [Repo](https://github.com/Abubakr-Alsheikh/claude-account-switch) |
+| `08` | **NanoManga Studio** | Turns a one-line idea into finished manga pages with Gemini, keeping characters consistent from page to page. | [Repo](https://github.com/Abubakr-Alsheikh/nanomanga-studio) · [Live](https://nanomanga-studio.vercel.app) |
+| `09` | **NexusDesk AI** | Support-ticket service that triages tickets with an LLM on a background queue, with validated output and retries. | [Repo](https://github.com/Abubakr-Alsheikh/nexusdesk-ai) |
+| `10` | **Smart Markdown Pro** | Local-first markdown editor with AI formatting and server-side PDF export. | [Repo](https://github.com/Abubakr-Alsheikh/smart-markdown-pro) |
 
 <sub>More projects, with diagrams and case studies, on the <a href="https://abubakr-alsheikh.netlify.app/#projects">portfolio</a>.</sub>
 
@@ -91,9 +93,11 @@ I'm not tied to one stack. Most days it's **Python and Django** or **Node.js** o
 ```diff
 + [STUDYING]   AWS Certified Solutions Architect - Associate
 + [STUDYING]   B.Sc. IT Engineering · Aleppo University & Syrian Virtual University
++ [COMPLETED]  Software Engineering diploma · first in cohort, 90.36%
 + [CERTIFIED]  Meta Generalist Software Engineer
 !              Front-End · Back-End · Database Engineer · Android
-+ [SHIPPING]   Mizan, Max CLI, and client web apps
++ [SHIPPED]    Linnet, Storefront Ops and Roastline: three concept builds, all live
++ [SHIPPING]   Mizan, Max CLI, qtask, and client web apps
 ```
 
 <p align="center"><img src="./assets/hud-divider.svg" width="100%" alt="" /></p>
@@ -101,7 +105,7 @@ I'm not tied to one stack. Most days it's **Python and Django** or **Node.js** o
 ### `▸ 05 // TELEMETRY`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abubakr-Alsheikh&show_icons=true&include_all_commits=true&count_private=true&bg_color=020617&title_color=3B82F6&text_color=94A3B8&icon_color=F97316&border_color=1E293B&ring_color=3B82F6&custom_title=SYSTEM%20TELEMETRY" alt="GitHub stats" />
+  <img height="165" src="https://raw.githubusercontent.com/Abubakr-Alsheikh/Abubakr-Alsheikh/output/telemetry.svg" alt="System telemetry: contributions, commits, pull requests and public repositories over the last 12 months, and the languages in public code" />
   <img height="165" src="https://streak-stats.demolab.com?user=Abubakr-Alsheikh&background=020617&border=1E293B&stroke=1E293B&ring=3B82F6&fire=F97316&currStreakNum=F1F5F9&sideNums=F1F5F9&currStreakLabel=3B82F6&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak" />
 </p>
 
