@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 495 195" width="495" height="195" role="img" aria-labelledby="st sd">
+  <title id="st">System telemetry</title>
+  <desc id="sd">Last 12 months: contributions 5,542, commits 729, pull requests 87, public repos 46. Languages in public code: Python 49%, TypeScript 34%, JavaScript 10%, PHP 3%, C# 2%.</desc>
+  <style>.mono { font-family: 'JetBrains Mono','Cascadia Mono','SF Mono',Consolas,'Liberation Mono',Menlo,monospace; }</style>
+  <rect x="0.5" y="0.5" width="494" height="194" fill="#020617" stroke="#1e293b"/>
+  <rect x="4" y="4" width="3" height="3" fill="#334155"/>
+  <rect x="488" y="4" width="3" height="3" fill="#334155"/>
+  <rect x="4" y="188" width="3" height="3" fill="#334155"/>
+  <rect x="488" y="188" width="3" height="3" fill="#334155"/>
+  <rect x="24" y="25" width="6" height="6" fill="#3B82F6"/>
+  <text x="38" y="31" class="mono" font-size="12" letter-spacing="3" fill="#94A3B8">SYSTEM TELEMETRY</text>
+  <text x="471" y="31" text-anchor="end" class="mono" font-size="10" letter-spacing="2" fill="#64748B">LAST 12 MONTHS</text>
+  <line x1="24" y1="44" x2="471" y2="44" stroke="#1e293b"/>
+  <text x="24.0" y="67" class="mono" font-size="10" letter-spacing="1" fill="#64748B">CONTRIBUTIONS</text>
+  <text x="24.0" y="96" class="mono" font-size="26" font-weight="600" fill="#F97316">5,542</text>
+  <line x1="125.8" y1="58" x2="125.8" y2="100" stroke="#1e293b"/>
+  <text x="135.8" y="67" class="mono" font-size="10" letter-spacing="1" fill="#64748B">COMMITS</text>
+  <text x="135.8" y="96" class="mono" font-size="26" font-weight="600" fill="#F1F5F9">729</text>
+  <line x1="237.5" y1="58" x2="237.5" y2="100" stroke="#1e293b"/>
+  <text x="247.5" y="67" class="mono" font-size="10" letter-spacing="1" fill="#64748B">PULL REQUESTS</text>
+  <text x="247.5" y="96" class="mono" font-size="26" font-weight="600" fill="#F1F5F9">87</text>
+  <line x1="349.2" y1="58" x2="349.2" y2="100" stroke="#1e293b"/>
+  <text x="359.2" y="67" class="mono" font-size="10" letter-spacing="1" fill="#64748B">PUBLIC REPOS</text>
+  <text x="359.2" y="96" class="mono" font-size="26" font-weight="600" fill="#F1F5F9">46</text>
+  <line x1="24" y1="116" x2="471" y2="116" stroke="#1e293b"/>
+  <text x="24" y="134" class="mono" font-size="10" letter-spacing="1" fill="#64748B">LANGUAGES · PUBLIC CODE</text>
+  <rect x="24" y="143" width="447" height="6" fill="#0F172A"/>
+  <rect x="24.0" y="143" width="218.5" height="6" fill="#F97316"/>
+  <rect x="244.5" y="143" width="151.6" height="6" fill="#3B82F6"/>
+  <rect x="398.2" y="143" width="41.9" height="6" fill="#93C5FD"/>
+  <rect x="442.0" y="143" width="9.9" height="6" fill="#94A3B8"/>
+  <rect x="453.9" y="143" width="8.6" height="6" fill="#475569"/>
+  <rect x="24" y="163" width="6" height="6" fill="#F97316"/>
+  <text x="35" y="169" class="mono" font-size="10" fill="#94A3B8">PYTHON 49%</text>
+  <rect x="109.0" y="163" width="6" height="6" fill="#3B82F6"/>
+  <text x="120.0" y="169" class="mono" font-size="10" fill="#94A3B8">TYPESCRIPT 34%</text>
+  <rect x="218.39999999999998" y="163" width="6" height="6" fill="#93C5FD"/>
+  <text x="229.39999999999998" y="169" class="mono" font-size="10" fill="#94A3B8">JAVASCRIPT 10%</text>
+  <rect x="327.79999999999995" y="163" width="6" height="6" fill="#94A3B8"/>
+  <text x="338.79999999999995" y="169" class="mono" font-size="10" fill="#94A3B8">PHP 3%</text>
+  <rect x="388.4" y="163" width="6" height="6" fill="#475569"/>
+  <text x="399.4" y="169" class="mono" font-size="10" fill="#94A3B8">C# 2%</text>
+</svg>
